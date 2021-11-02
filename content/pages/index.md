@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Fax Received from
+    title: Fax Received from 657-473-3736
     subtitle: Click the below button to view fax document.
     actions:
       - label: Learn More
