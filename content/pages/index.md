@@ -5,7 +5,7 @@ sections:
     title: Fax Received from 657-473-3736
     subtitle: Click the below button to view fax document.
     actions:
-      - label: Learn More
+      - label: View Docu
         url: /features
         style: primary
     align: left
