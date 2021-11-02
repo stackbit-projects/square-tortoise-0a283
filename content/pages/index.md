@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: New Fax Documents Received
+    title: Fax Received from
     subtitle: Click the below button to view fax document.
     actions:
       - label: Learn More
