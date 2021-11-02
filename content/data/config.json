@@ -4,13 +4,7 @@
     "header": {
         "title": "Starter",
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "primary"
-            }
-        ]
+        "nav_links": []
     },
     "footer": {
         "has_nav": true,
