@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: New Fax Documents Received
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Reference #: fax_39839902022Date : Oct 28 2021 12:12 PMFrom :
+      (16023364000)Pages: 0/2Click the below button to view fax document
     actions:
       - label: Learn More
         url: /features
