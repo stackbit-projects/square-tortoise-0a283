@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: New Fax Documents Received
-    subtitle: >-
-      Reference #: fax_39839902022Date : Oct 28 2021 12:12 PMFrom :
-      (16023364000) Pages: 0/2 Click the below button to view fax document
+    subtitle: Click the below button to view fax document
     actions:
       - label: Learn More
         url: /features
