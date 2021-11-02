@@ -4,7 +4,8 @@
     "header": {
         "title": "Starter",
         "has_nav": true,
-        "nav_links": []
+        "nav_links": [],
+        "logo": "/images/root_Picture1.png"
     },
     "footer": {
         "has_nav": true,
