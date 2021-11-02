@@ -21,14 +21,7 @@
             }
         ],
         "has_social": true,
-        "social_links": [
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "new_window": true
-            }
-        ],
+        "social_links": [],
         "content": "&copy; All rights reserved."
     },
     "domain": "https://square-tortoise-0a283.netlify.app"
